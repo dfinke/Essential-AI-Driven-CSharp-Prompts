@@ -1,4 +1,4 @@
-# Essential AI Driven CSharp Prompts
+# Essential AI-Driven CSharp Prompts
 Below is a list of AI-driven prompts that you can use to generate C# code. Click on any of the prompts and it will take you to the GitHub Copilot page where you can generate the script.
 
 This is a free service from Microsoft GitHub. Think ChatGPT and much more.
