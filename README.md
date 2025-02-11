@@ -26,7 +26,7 @@ After running the prompt, you will see the generated script. You can copy the sc
 
 ## In Action
 
-![alt text](/assets/Essential-PowerShell-Prompts.gif)
+![alt text](/assets/Essential-Csharp-Prompts.gif)
 
 ## Contribute
 
